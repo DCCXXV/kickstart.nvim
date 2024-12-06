@@ -1,4 +1,4 @@
-# kickstart.nvim
+# DCCXXV's kickstart.nvim
 
 ## Introduction
 
